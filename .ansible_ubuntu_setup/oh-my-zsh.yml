@@ -1,0 +1,24 @@
+---
+- hosts: localhost
+  connection: local
+  become: true
+  roles:
+          - role: gantsign.antigen
+            users:
+              - username: socke
+                antigen_libraries:
+                - name: oh-my-zsh
+                antigen_theme:
+                  name: spaceship-prompt/spaceship-prompt
+                antigen_bundles:
+                  # Bundles from the default repo (robbyrussell's oh-my-zsh).
+                  - name: git
+                  - name: pip
+                  - name: command-not-found
+                  # Syntax highlighting bundle.
+                  - name: zsh-syntax-highlighting # `name` is required (any valid file name will do so long as it's unique for the bundles)
+                    url: zsh-users/zsh-syntax-highlighting
+                  - name: zsh-autosuggestions
+                    url: zsh-users/zsh-autosuggestions
+                  - name alias-tip
+                    url: djui/alias-tips

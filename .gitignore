@@ -105,4 +105,7 @@
 !/.zsh/**
 !/.viminfo
 !/.bashrc
-!/dtf_init.sh
+!/.dtf_init.sh
+!/.ansible_ubuntu_setup/
+!/.ansible_ubuntu_setup/**
+!/.antigenrc
