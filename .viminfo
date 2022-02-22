@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1645498659,,"wq"
+|2,0,1645499687,,"wq"
 :q!
 |2,0,1645498278,,"q!"
 :set number
@@ -88,36 +88,50 @@
 |3,0,36,0,1,0,1645492484,"n"
 
 # File marks:
-'0  12  0  ~/.cfg/README.md
-|4,48,12,0,1645498659,"~/.cfg/README.md"
-'1  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,49,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'2  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,50,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'3  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,51,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'0  1  55  ~/.antigen-etc/use.d/pip_binaries.zsh
+|4,48,1,55,1645499687,"~/.antigen-etc/use.d/pip_binaries.zsh"
+'1  12  0  ~/.cfg/README.md
+|4,49,12,0,1645498659,"~/.cfg/README.md"
+'2  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,50,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'3  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,51,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 '4  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,52,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 '5  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,53,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 '6  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,54,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'7  1  14  ~/.zsh/aliases
-|4,55,1,14,1645496612,"~/.zsh/aliases"
-'8  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,56,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'9  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,57,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'7  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,55,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'8  1  14  ~/.zsh/aliases
+|4,56,1,14,1645496612,"~/.zsh/aliases"
+'9  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,57,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 
 # Jumplist (newest first):
+-'  1  55  ~/.antigen-etc/use.d/pip_binaries.zsh
+|4,39,1,55,1645499687,"~/.antigen-etc/use.d/pip_binaries.zsh"
 -'  12  0  ~/.cfg/README.md
 |4,39,12,0,1645498659,"~/.cfg/README.md"
+-'  12  0  ~/.cfg/README.md
+|4,39,12,0,1645498659,"~/.cfg/README.md"
+-'  1  0  ~/.cfg/README.md
+|4,39,1,0,1645498578,"~/.cfg/README.md"
 -'  1  0  ~/.cfg/README.md
 |4,39,1,0,1645498578,"~/.cfg/README.md"
 -'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
@@ -130,6 +144,18 @@
 |4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
@@ -146,6 +172,50 @@
 |4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
 -'  1  14  ~/.zsh/aliases
 |4,39,1,14,1645496612,"~/.zsh/aliases"
 -'  1  14  ~/.zsh/aliases
@@ -194,6 +264,22 @@
 |4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
@@ -214,104 +300,25 @@
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496358,"~/.antigenrc"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.antigen-etc/use.d/pip_binaries.zsh
+	*	1645499685	0
+	"	1	55
+	^	1	56
+	.	1	55
+	+	1	55
 
 > ~/.cfg/README.md
 	*	1645498658	0

@@ -110,3 +110,6 @@
 !/.ansible_ubuntu_setup/**
 !/.antigenrc
 !/README.md
+!/.antigen-etc/
+!/.antigen-etc/use.d/
+!/.antigen-etc/use.d/**
