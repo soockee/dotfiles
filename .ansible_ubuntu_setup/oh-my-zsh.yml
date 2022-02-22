@@ -13,9 +13,9 @@
                 antigen_bundles:
                   # Bundles from the default repo (robbyrussell's oh-my-zsh).
                   - name: git
+                  - name: ssh-agent
                   - name: pip
                   - name: command-not-found
-                  - name: ssh-agent
                   
                   - name: zsh-syntax-highlighting # `name` is required (any valid file name will do so long as it's unique for the bundles)
                     url: zsh-users/zsh-syntax-highlighting

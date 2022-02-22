@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1645497080,,"q!"
+|2,0,1645498278,,"q!"
 :wq
 |2,0,1645497061,,"wq"
 :set number
@@ -88,30 +88,34 @@
 |3,0,36,0,1,0,1645492484,"n"
 
 # File marks:
-'0  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,48,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'1  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,49,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'0  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,48,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'1  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,49,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 '2  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,50,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'3  1  14  ~/.zsh/aliases
-|4,51,1,14,1645496612,"~/.zsh/aliases"
-'4  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,52,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'5  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,53,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'6  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,54,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'7  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,55,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'8  25  61  ~/.antigenrc
-|4,56,25,61,1645496358,"~/.antigenrc"
-'9  1  0  ~/.bashrc
-|4,57,1,0,1645496344,"~/.bashrc"
+'3  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,51,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'4  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,52,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'5  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,53,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'6  1  14  ~/.zsh/aliases
+|4,54,1,14,1645496612,"~/.zsh/aliases"
+'7  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,55,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'8  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,56,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'9  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,57,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 
 # Jumplist (newest first):
+-'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
@@ -120,6 +124,16 @@
 |4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
 -'  1  14  ~/.zsh/aliases
 |4,39,1,14,1645496612,"~/.zsh/aliases"
 -'  1  14  ~/.zsh/aliases
@@ -134,6 +148,8 @@
 |4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
@@ -142,6 +158,40 @@
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
 -'  25  61  ~/.antigenrc
 |4,39,25,61,1645496358,"~/.antigenrc"
 -'  25  61  ~/.antigenrc
@@ -238,84 +288,34 @@
 |4,39,23,0,1645496351,"~/.antigenrc"
 -'  1  0  ~/.antigenrc
 |4,39,1,0,1645496351,"~/.antigenrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1645496344,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
 
 # History of marks within files (newest to oldest):
 
 > ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-	*	1645497078	0
-	"	19	34
+	*	1645498276	0
+	"	19	17
 	^	18	35
 	.	19	0
 	+	25	18
