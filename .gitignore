@@ -105,3 +105,4 @@
 !/.zsh/**
 !/.viminfo
 !/.bashrc
+!/dtf_init.sh
