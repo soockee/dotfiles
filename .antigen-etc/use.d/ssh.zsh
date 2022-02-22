@@ -1,1 +1,1 @@
-ssh-add -K ~/.ssh/id_rsa &> /dev/null
+#ssh-add -K ~/.ssh/id_rsa &> /dev/null

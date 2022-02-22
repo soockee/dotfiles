@@ -6,5 +6,8 @@ all: help
 help:
 	@printf "There is no help ... you are doomed"
 
-install: 
+run: 
 	ansible-playbook -i hosts site.yml --ask-become-pass
+
+install: 
+	ansible-galaxy install -r requirements.yml

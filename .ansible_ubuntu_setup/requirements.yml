@@ -1,4 +1,5 @@
 ---
 roles:
 - gantsign.antigen
+- githubixx.kubectl
 
