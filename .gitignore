@@ -109,3 +109,5 @@
 !/.ansible_ubuntu_setup/
 !/.ansible_ubuntu_setup/**
 !/.antigenrc
+!/.dtf.git/
+!/.dtf.git/README.md
