@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1645496612,,"q!"
+|2,0,1645497080,,"q!"
 :wq
-|2,0,1645496436,,"wq"
+|2,0,1645497061,,"wq"
 :set number
 |2,0,1645493495,,"set number"
 :set numbers
@@ -88,34 +88,56 @@
 |3,0,36,0,1,0,1645492484,"n"
 
 # File marks:
-'0  1  14  ~/.zsh/aliases
-|4,48,1,14,1645496612,"~/.zsh/aliases"
-'1  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,49,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'2  25  61  ~/.antigenrc
-|4,50,25,61,1645496358,"~/.antigenrc"
-'3  1  0  ~/.bashrc
-|4,51,1,0,1645496344,"~/.bashrc"
-'4  1  0  ~/.gitignore
-|4,52,1,0,1645496188,"~/.gitignore"
-'5  25  61  ~/.antigenrc
-|4,53,25,61,1645496169,"~/.antigenrc"
-'6  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,54,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
-'7  111  44  ~/.gitignore
-|4,55,111,44,1645495952,"~/.gitignore"
-'8  111  44  ~/.gitignore
-|4,56,111,44,1645495952,"~/.gitignore"
-'9  12  56  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,57,12,56,1645495840,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
+'0  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,48,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'1  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,49,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'2  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,50,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'3  1  14  ~/.zsh/aliases
+|4,51,1,14,1645496612,"~/.zsh/aliases"
+'4  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,52,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'5  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,53,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'6  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,54,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'7  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,55,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'8  25  61  ~/.antigenrc
+|4,56,25,61,1645496358,"~/.antigenrc"
+'9  1  0  ~/.bashrc
+|4,57,1,0,1645496344,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
+-'  1  14  ~/.zsh/aliases
+|4,39,1,14,1645496612,"~/.zsh/aliases"
 -'  1  14  ~/.zsh/aliases
 |4,39,1,14,1645496612,"~/.zsh/aliases"
 -'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
 |4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
 -'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
@@ -128,6 +150,78 @@
 |4,39,25,61,1645496358,"~/.antigenrc"
 -'  25  61  ~/.antigenrc
 |4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  25  61  ~/.antigenrc
+|4,39,25,61,1645496358,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
+-'  23  0  ~/.antigenrc
+|4,39,23,0,1645496351,"~/.antigenrc"
+-'  1  0  ~/.antigenrc
+|4,39,1,0,1645496351,"~/.antigenrc"
 -'  23  0  ~/.antigenrc
 |4,39,23,0,1645496351,"~/.antigenrc"
 -'  1  0  ~/.antigenrc
@@ -160,6 +254,54 @@
 |4,39,1,0,1645496344,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1645496344,"~/.bashrc"
 -'  122  0  ~/.bashrc
 |4,39,122,0,1645496342,"~/.bashrc"
 -'  122  0  ~/.bashrc
@@ -168,150 +310,16 @@
 |4,39,122,0,1645496342,"~/.bashrc"
 -'  122  0  ~/.bashrc
 |4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  122  0  ~/.bashrc
-|4,39,122,0,1645496342,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  121  61  ~/.bashrc
-|4,39,121,61,1645496340,"~/.bashrc"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1645496188,"~/.gitignore"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  25  61  ~/.antigenrc
-|4,39,25,61,1645496169,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  23  12  ~/.antigenrc
-|4,39,23,12,1645496147,"~/.antigenrc"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  18  ~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,18,1645495979,"~/workspace/ansible_ubuntu_setup/oh-my-zsh.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ansible_ubuntu_setup/oh-my-zsh.yml
+	*	1645497078	0
+	"	19	34
+	^	18	35
+	.	19	0
+	+	25	18
+	+	19	0
 
 > ~/.zsh/aliases
 	*	1645496582	0
@@ -319,13 +327,6 @@
 	^	1	15
 	.	1	14
 	+	1	14
-
-> ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-	*	1645496435	0
-	"	24	18
-	^	24	19
-	.	24	18
-	+	24	18
 
 > ~/.antigenrc
 	*	1645496358	0

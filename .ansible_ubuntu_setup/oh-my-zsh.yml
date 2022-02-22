@@ -15,10 +15,11 @@
                   - name: git
                   - name: pip
                   - name: command-not-found
-                  # Syntax highlighting bundle.
+                  - name: ssh-agent
+                  
                   - name: zsh-syntax-highlighting # `name` is required (any valid file name will do so long as it's unique for the bundles)
                     url: zsh-users/zsh-syntax-highlighting
                   - name: zsh-autosuggestions
                     url: zsh-users/zsh-autosuggestions
-                  - name alias-tip
+                  - name: alias-tip
                     url: djui/alias-tips
