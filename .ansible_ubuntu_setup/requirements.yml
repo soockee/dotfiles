@@ -2,4 +2,6 @@
 roles:
 - gantsign.antigen
 - githubixx.kubectl
+- geerlingguy.nodejs
+
 

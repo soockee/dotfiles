@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1645499687,,"wq"
 :q!
-|2,0,1645498278,,"q!"
+|2,0,1646565887,,"q!"
+:wq
+|2,0,1646470561,,"wq"
 :set number
 |2,0,1645493495,,"set number"
 :set numbers
@@ -57,261 +57,308 @@
 	                  - name: zsh-autosuggestions
 |3,0,0,1,1,0,1645495492,"                  - name: zsh-autosuggestions"
 ""1	LINE	0
-	                  - name: autojump
-|3,1,1,1,1,0,1645495978,"                  - name: autojump"
+	fixed k3s problem with raspi magic
+|3,1,1,1,1,0,1645739820,"fixed k3s problem with raspi magic"
 "2	LINE	0
-	                    # url: denysdovhan/spaceship-prompt
-|3,0,2,1,1,0,1645495615,"                    # url: denysdovhan/spaceship-prompt"
+	
+|3,0,2,1,1,0,1645739820,""
 "3	LINE	0
-	                    #   - name: spaceship
-|3,0,3,1,1,0,1645495615,"                    #   - name: spaceship"
+	# This is the commit message #2:
+|3,0,3,1,1,0,1645739819,"# This is the commit message #2:"
 "4	LINE	0
-	                  - 
-|3,0,4,1,1,0,1645495226,"                  - "
+	                  - name: autojump
+|3,0,4,1,1,0,1645495978,"                  - name: autojump"
 "5	LINE	0
-	              - name: lein
-|3,0,5,1,1,0,1645492530,"              - name: lein"
+	                    # url: denysdovhan/spaceship-prompt
+|3,0,5,1,1,0,1645495615,"                    # url: denysdovhan/spaceship-prompt"
 "6	LINE	0
-	              - ame: heroku
-|3,0,6,1,1,0,1645492486,"              - ame: heroku"
+	                    #   - name: spaceship
+|3,0,6,1,1,0,1645495615,"                    #   - name: spaceship"
 "7	LINE	0
-		@egrep '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGINd
-|3,0,7,1,1,0,1645491611,"	@egrep '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGINd"
+	                  - 
+|3,0,7,1,1,0,1645495226,"                  - "
 "8	LINE	0
-	# With just the collection name
-|3,0,8,1,1,0,1645491474,"# With just the collection name"
+	              - name: lein
+|3,0,8,1,1,0,1645492530,"              - name: lein"
 "9	LINE	0
-	# With the collection name, version, and source options
-|3,0,9,1,1,0,1645491458,"# With the collection name, version, and source options"
+	              - ame: heroku
+|3,0,9,1,1,0,1645492486,"              - ame: heroku"
 "-	CHAR	0
 	n
 |3,0,36,0,1,0,1645492484,"n"
 
 # File marks:
-'0  1  55  ~/.antigen-etc/use.d/pip_binaries.zsh
-|4,48,1,55,1645499687,"~/.antigen-etc/use.d/pip_binaries.zsh"
-'1  12  0  ~/.cfg/README.md
-|4,49,12,0,1645498659,"~/.cfg/README.md"
-'2  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,50,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'3  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,51,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'4  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,52,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'5  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,53,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'6  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,54,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'7  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,55,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
-'8  1  14  ~/.zsh/aliases
-|4,56,1,14,1645496612,"~/.zsh/aliases"
-'9  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,57,25,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+'0  26  4  /tmp/kubectl-edit-3589341192.yaml
+|4,48,26,4,1646565887,"/tmp/kubectl-edit-3589341192.yaml"
+'1  20  4  ~/.kube/config
+|4,49,20,4,1646470767,"~/.kube/config"
+'2  18  22  ~/tmp.json
+|4,50,18,22,1646470561,"~/tmp.json"
+'3  19  12  ~/tmp.json
+|4,51,19,12,1646470545,"~/tmp.json"
+'4  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,52,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+'5  1  0  .antigen-etc/use.d/path.zsh
+|4,53,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+'6  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,54,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+'7  6  0  ~/workspace/homelab/.git/COMMIT_EDITMSG
+|4,55,6,0,1645739821,"~/workspace/homelab/.git/COMMIT_EDITMSG"
+'8  2  0  ~/workspace/homelab/.git/rebase-merge/git-rebase-todo
+|4,56,2,0,1645739816,"~/workspace/homelab/.git/rebase-merge/git-rebase-todo"
+'9  5  56  ~/workspace/homelab_kubernetes/.gitlab/agents/primary-agent/config.yaml
+|4,57,5,56,1645617115,"~/workspace/homelab_kubernetes/.gitlab/agents/primary-agent/config.yaml"
 
 # Jumplist (newest first):
--'  1  55  ~/.antigen-etc/use.d/pip_binaries.zsh
-|4,39,1,55,1645499687,"~/.antigen-etc/use.d/pip_binaries.zsh"
--'  12  0  ~/.cfg/README.md
-|4,39,12,0,1645498659,"~/.cfg/README.md"
--'  12  0  ~/.cfg/README.md
-|4,39,12,0,1645498659,"~/.cfg/README.md"
--'  1  0  ~/.cfg/README.md
-|4,39,1,0,1645498578,"~/.cfg/README.md"
--'  1  0  ~/.cfg/README.md
-|4,39,1,0,1645498578,"~/.cfg/README.md"
--'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  17  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,17,1645498278,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  19  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,19,34,1645497080,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497071,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  18  34  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,18,34,1645497061,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  25  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,25,18,1645497019,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  1  14  ~/.zsh/aliases
-|4,39,1,14,1645496612,"~/.zsh/aliases"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  24  18  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,24,18,1645496436,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
--'  1  0  ~/.ansible_ubuntu_setup/oh-my-zsh.yml
-|4,39,1,0,1645496415,"~/.ansible_ubuntu_setup/oh-my-zsh.yml"
+-'  26  4  /tmp/kubectl-edit-3589341192.yaml
+|4,39,26,4,1646565887,"/tmp/kubectl-edit-3589341192.yaml"
+-'  1  0  /tmp/kubectl-edit-3589341192.yaml
+|4,39,1,0,1646565464,"/tmp/kubectl-edit-3589341192.yaml"
+-'  20  4  ~/.kube/config
+|4,39,20,4,1646470767,"~/.kube/config"
+-'  20  4  ~/.kube/config
+|4,39,20,4,1646470767,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1646470738,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1646470738,"~/.kube/config"
+-'  18  22  ~/tmp.json
+|4,39,18,22,1646470561,"~/tmp.json"
+-'  18  22  ~/tmp.json
+|4,39,18,22,1646470561,"~/tmp.json"
+-'  18  22  ~/tmp.json
+|4,39,18,22,1646470561,"~/tmp.json"
+-'  18  22  ~/tmp.json
+|4,39,18,22,1646470561,"~/tmp.json"
+-'  19  12  ~/tmp.json
+|4,39,19,12,1646470545,"~/tmp.json"
+-'  19  12  ~/tmp.json
+|4,39,19,12,1646470545,"~/tmp.json"
+-'  19  12  ~/tmp.json
+|4,39,19,12,1646470545,"~/tmp.json"
+-'  19  12  ~/tmp.json
+|4,39,19,12,1646470545,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  0  ~/tmp.json
+|4,39,1,0,1646470487,"~/tmp.json"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  45  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,45,1646217806,"~/.antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  0  .antigen-etc/use.d/path.zsh
+|4,39,1,0,1646217769,".antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
+-'  1  23  ~/.antigen-etc/use.d/path.zsh
+|4,39,1,23,1646215967,"~/.antigen-etc/use.d/path.zsh"
 
 # History of marks within files (newest to oldest):
+
+> /tmp/kubectl-edit-3589341192.yaml
+	*	1646565514	0
+	"	26	4
+
+> ~/.kube/config
+	*	1646470752	0
+	"	20	4
+
+> ~/tmp.json
+	*	1646470561	0
+	"	18	22
+	^	18	23
+	.	19	0
+	+	18	34
+	+	19	0
+
+> ~/.antigen-etc/use.d/path.zsh
+	*	1646217805	0
+	"	1	45
+	^	1	46
+	.	1	45
+	+	1	45
+
+> .antigen-etc/use.d/path.zsh
+	*	1646217764	0
+	"	1	0
+
+> ~/workspace/homelab/.git/COMMIT_EDITMSG
+	*	1645739821	0
+	"	6	0
+	.	6	0
+	+	6	0
+
+> ~/workspace/homelab/.git/rebase-merge/git-rebase-todo
+	*	1645739816	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	2	0
+
+> ~/workspace/homelab_kubernetes/.gitlab/agents/primary-agent/config.yaml
+	*	1645617111	0
+	"	5	56
+	^	5	57
+	.	5	56
+	+	5	56
 
 > ~/.antigen-etc/use.d/pip_binaries.zsh
 	*	1645499685	0
