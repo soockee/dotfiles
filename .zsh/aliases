@@ -1,0 +1,5 @@
+alias vim="nvim"
+alias vi="nvim"
+alias v="nvim"
+alias folder="pcmanfm"
+alias config='/usr/bin/git --git-dir=/home/socke/.cfg/ --work-tree=/home/socke'
