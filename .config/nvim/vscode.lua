@@ -26,6 +26,9 @@ require("packer").startup(function(use)
 		{'L3MON4D3/LuaSnip'},             -- Required
 		{'rafamadriz/friendly-snippets'}, -- Optional
   	},
+	use "jhlgns/naysayer99.vim",
+	use "terrortylor/nvim-comment",
+	use "CreaturePhil/vim-handmade-hero"
 }
 end)
 

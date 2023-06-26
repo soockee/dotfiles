@@ -2,6 +2,10 @@
 export EDITOR=vim
 export RUST_BIN=/home/socke/.cargo/bin
 export PATH=$PATH:$(go env GOPATH)/bin:$RUST_BIN
+export ANDROID_HOME=/home/socke/Android-SDK/sdk 
+export ANDROID_NDK_HOME=/home/socke/Android-SDK/sdk/ndk
+export PATH=$PATH:$HOME/.goose/bin
+
 fpath=(/home/socke/.oh-my-zsh/custom/plugins/socke-completions $fpath)
 source /usr/share/nvm/init-nvm.sh
 

@@ -67,9 +67,9 @@ end)
 vim.keymap.set("n", "<M-b>", ":Ex<CR>")
 
 -- split screen and navigation
-vim.keymap.set("n", "<leader>v", ":vsplit<CR><C-w>l", { noremap = true })
-vim.keymap.set("n", "<leader>h", ":wincmd h<CR>", { noremap = true })
-vim.keymap.set("n", "<leader>l", ":wincmd l<CR>", { noremap = true })
+vim.keymap.set("n", "<leader>\\", ":vsplit<CR><C-w>l", { noremap = true })
+vim.keymap.set("n", "<leader><Left>", ":wincmd h<CR>", { noremap = true })
+vim.keymap.set("n", "<leader><Right>", ":wincmd l<CR>", { noremap = true })
 
 -- See `:help telescope.builtin`
 vim.keymap.set('n', '<leader>?', require('telescope.builtin').oldfiles, { desc = '[?] Find recently opened files' })
