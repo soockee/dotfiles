@@ -1,13 +1,14 @@
 ## Socke Stuff Begin
-export EDITOR=vim
+export EDITOR=nvim
 export RUST_BIN=/home/socke/.cargo/bin
-export PATH=$PATH:$(go env GOPATH)/bin:$RUST_BIN
+export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:$RUST_BIN
 export ANDROID_HOME=/home/socke/Android-SDK/sdk 
 export ANDROID_NDK_HOME=/home/socke/Android-SDK/sdk/ndk
 export PATH=$PATH:$HOME/.goose/bin
+export PATH="$PATH:/opt/nvim-linux64/bin"
 
 fpath=(/home/socke/.oh-my-zsh/custom/plugins/socke-completions $fpath)
-source /usr/share/nvm/init-nvm.sh
 
 source $HOME/.zsh/aliases
 neofetch
@@ -32,7 +33,6 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="powerlevel10k/powerlevel10k"
-
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
